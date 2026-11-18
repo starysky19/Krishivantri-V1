@@ -1,0 +1,6 @@
+{
+  "name": "Krishivantri",
+  "description": "Agricultural drone spraying marketplace connecting farmers and verified drone pilots with polygon boundary mapping, priority dispatch, and transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
